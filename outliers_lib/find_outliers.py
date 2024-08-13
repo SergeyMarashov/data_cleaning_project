@@ -61,10 +61,5 @@ def find_outliers_z_score(data, feature, left=3, right=3, log_scale=False):
 
 def new_fun1(a,b):
     pass
-def new_fun2 (a,b):
-    pass
-def new_fun3 (a,b):
-    pass
-def new_fun4 (a,b):
-    pass
+
 
